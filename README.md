@@ -6,7 +6,7 @@
 
 ## Contacto ☕ :
 
-[![@eesp_24](https://img.icons8.com/fluency/48/000000/instagram-new.png "@eesp_24")](https://www.instagram.com/eesp_24/) [![@espindola19](https://img.icons8.com/fluency/48/000000/linkedin.png "@espindola19")](https://www.linkedin.com/in/espindola19/)[![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@2646236692")](tel:2646236692) ![ericespindola994@gmail.com](https://img.icons8.com/fluency/48/000000/gmail.png "ericespindola994@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=jrjtXLDgNkJXvhPmcwbfmMnVCQJfxlPrFvktbMXQbMrDTvrBPDKvKPDMXsBQwwsGRTxjXBbg)")
+[![@eesp_24](https://img.icons8.com/fluency/48/000000/instagram-new.png "@eesp_24")](https://www.instagram.com/eesp_24/) [![@espindola19](https://img.icons8.com/fluency/48/000000/linkedin.png "@espindola19")](https://www.linkedin.com/in/espindola19/)[![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@2646236692")](tel:2646236692) [![@ericespindola994@gmail.com](https://img.icons8.com/fluency/48/000000/gmail.png "@ericespindola994@gmail.com)](https://mail.google.com/mail/u/0/#inbox?compose=jrjtXLDgNkJXvhPmcwbfmMnVCQJfxlPrFvktbMXQbMrDTvrBPDKvKPDMXsBQwwsGRTxjXBbg)")
 
 
 # 💻 Tecnologías Conocidas:
