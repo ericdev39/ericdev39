@@ -19,8 +19,9 @@
 <br>
 
 <!-------------------------->
+# Algunos proyectos👨🏻‍💻
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+
 
 <table align="left" >
 <tr border="none">
