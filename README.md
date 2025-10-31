@@ -20,7 +20,7 @@
 <br>
 
 <!-------------------------->
-# Algunos proyectos👨🏻‍💻
+# Algunos proyectos en figma👨🏻‍💻
 <div id="proyectos">
 
 
@@ -29,7 +29,7 @@
   <td width="25%" align="center">
     <p align="center">
      <a href="https://www.figma.com/design/13E2GgnpcBWqLkW4MHGGDN/Untitled?node-id=0-1&t=EyfiUrwXZK7SAhC1-1">
-        <img align="center" width=100% src=""   alt="figma" /></a>
+        <img align="center" width=100% src="Captura de pantalla 2025-10-30 211039.png"   alt="figma" /></a>
       </p>
   <p align="center">
      <a href="#">
