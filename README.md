@@ -30,8 +30,8 @@
         <img align="center" width=100% src="Captura de pantalla 2025-10-30 211039.png"   alt="figma" /></a>
       </p>
   <p align="center">
-     <a href="#">
-        <img align="center" width=100% src="#"   alt="" /></a>
+     <a href="">
+        <img align="center" width=100% src=""   alt="Zapateria" /></a>
       </p>      
 </td>
 <td width="25%" align="center">
