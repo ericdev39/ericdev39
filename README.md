@@ -1,4 +1,4 @@
-# Hola :hand: soy Eric Espindola / ericdev39 💫 
+# Hola :hand: soy Eric Espindola 💫 
 # Sobre Mí :smile:
 
 :mortar_board: Técnico en Informática Profesional y Personal - EPET N°4. <br>
@@ -20,10 +20,8 @@
 <br>
 
 <!-------------------------->
-# Algunos proyectos en figma👨🏻‍💻
+# Algunos proyectos de figma👨🏻‍💻
 <div id="proyectos">
-
-
 <table align="left" >
 <tr border="none">
   <td width="25%" align="center">
@@ -72,12 +70,18 @@
 </table>
   </div>
 <br>
-<br><br>
+<br>
+<br>
 <br>
 <br><br><br>
 <br><br>
+<br><br>
+<br><br><br>
+<br><br>
 
-<h2>GitHub :octocat:</h2>
+
+
+# GitHub :octocat:
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
