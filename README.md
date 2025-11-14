@@ -1,5 +1,4 @@
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ericdev39&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/># Hola :hand: soy Eric Espindola 💫 
+# Hola :hand: soy Eric Espindola 💫 
 # Sobre Mí :smile:
 
 :mortar_board: Técnico en Informática Profesional y Personal - EPET N°4. <br>
@@ -97,6 +96,8 @@
 
 <td width="40%" align="center">
 
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ericdev39&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
   </td>
 </tr>
