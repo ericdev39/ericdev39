@@ -27,11 +27,11 @@
   <td width="25%" align="center">
     <p align="center">
      <a href="https://www.figma.com/design/DlaTbaS6wXg9d5HIDq15G6/Sin-t%C3%ADtulo?node-id=0-1&t=UOuj7MTnKUA25ZB4-1">
-        <img align="center" width=100% src=""   alt="enlace a figma" /></a>
+        <img align="center" width=100% src="img/captura.png"   alt="enlace a figma" /></a>
       </p>
   <p align="center">
      <a href="">
-        <img align="center" width=100% src="img/captura.png"   alt="Zapateria" /></a>
+        <img align="center" width=100% src=""   alt="Zapateria" /></a>
       </p>      
 </td>
 <td width="25%" align="center">
