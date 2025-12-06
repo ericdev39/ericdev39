@@ -1,6 +1,6 @@
 # Hola :hand: soy Eric Espindola 💫 
 # Sobre Mí :smile:
-Actualmente trabajo como Técnico Externo para una empresa de electrónica.
+Actualmente trabajo como Técnico Externo para una empresa de electrónica. <br>
 :mortar_board: Técnico en Informática Profesional y Personal - EPET N°4. <br>
 :mortar_board: Tecnicatura Universitaria en Programación Web - FCEFN-UNSJ. <br>
 :computer: Curso de desarrollo web - SanjuanTEC. <br>
