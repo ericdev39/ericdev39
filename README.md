@@ -13,7 +13,7 @@ Actualmente trabajo como Técnico Externo para una empresa de electrónica. <br>
 # Tecnologías Conocidas 💻
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,html,css,js,bootstrap,react,figma" />
+    <img src="https://skillicons.dev/icons?i=github,html,css,js,bootstrap,php,figma" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@ Actualmente trabajo como Técnico Externo para una empresa de electrónica. <br>
 <td width="25%" align="center">
     <p align="center">
      <a href="#">
-        <img align="center" width=100% src=""   alt="" /></a>
+        <img align="center" width=100% src="img/captura2.jpg"   alt="" /></a>
       </p>
     <p align="center">
      <a href="#">
