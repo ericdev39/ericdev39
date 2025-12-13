@@ -41,13 +41,13 @@ Actualmente trabajo como Técnico Externo para una empresa de electrónica. <br>
       </p>
     <p align="center">
      <a href="#">
-        <img align="center" width=100% src="img/portafolio.png"   alt="" /></a>
+        <img align="center" width=100% src=""   alt="" /></a>
       </p>   
 </td>
   
   <p align="center">
      <a href="#">
-        <img align="center" width=100% src="#"   alt="" /></a>
+        <img align="center" width=100% src="img/portafolio.png"   alt="" /></a>
       </p>
    <p align="center">
      <a href="#">
