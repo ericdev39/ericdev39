@@ -46,7 +46,7 @@ Actualmente trabajo como Técnico Externo para una empresa de electrónica. <br>
 </td>
   <td width="25%" align="center">
     <p align="center">
-     <a href="ericdev39/portafolio">
+     <a href="#">
         <img align="center" width=100% src="img/portafolio.png"   alt="" /></a>
       </p>
     <p align="center">
