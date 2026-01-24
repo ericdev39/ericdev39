@@ -21,7 +21,7 @@ Actualmente trabajo como Técnico Externo para una empresa de electrónica. <br>
 <br>
 
 <!-------------------------->
-# Algunos proyectos de figma👨🏻‍💻
+<!--# Algunos proyectos de figma👨🏻‍💻
 <div id="proyectos">
 <table align="left" >
 <tr border="none">
@@ -88,7 +88,7 @@ Actualmente trabajo como Técnico Externo para una empresa de electrónica. <br>
 <br><br>
 <br><br><br>
 <br><br>
-
+-->
 
 
 # GitHub :octocat:
